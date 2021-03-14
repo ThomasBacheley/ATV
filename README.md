@@ -10,7 +10,7 @@ Avec les enjeux climatiques et la nécessité de faire des économies d’énerg
 Le siège social se situe à Mathieu. L'entreprise agit dans une zone de chalandise (= zone d’intervention) qui s'étend essentiellement dans toute la Basse-Normandie.
 Les chantiers sont concentrés sur Caen même et la Manche, ils peuvent aussi se déplacer en haute Normandie mais à de rares occasions.
 
-#L'application
+# L'application
 La mission qui m’a été confiée durant ce stage était de réaliser une application la plus complète possible afin de créer au format PDF, des bons de commandes pour l’entreprise pour 
 permettre un gain de temps et une meilleure maniabilité des éléments mis à leur disposition. 
 L’entreprise ATV réalisait sur papier leurs commandes et le fait de chercher toutes les références dans les différents dossiers étant contraignant, c’est pourquoi ils m’ont demandé de créer une application pour faciliter leur travail et qui répond à leurs attentes.
