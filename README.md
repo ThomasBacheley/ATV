@@ -18,6 +18,17 @@ Cependant, leur métier imposait des contraintes que j’ai dû appliquer.
 L’application devait pouvoir fonctionner sur leurs ordinateurs.
 J’ai réalisé l’application sur mon ordinateur car sur celui-ci je possédais déjà les outils nécessaires à savoir visual studio et qu’utiliser mon ordinateur m’offrait plus de facilités.
 
+Elle se présente comme telle :
+
+Au lancement, cette fenêtre apparait ![main_window](https://raw.githubusercontent.com/ThomasBacheley/ATV/master/screenshot/main_window.PNG) vous laissant la possibilité d'ajouter, modifier, sélectionner ou supprimer un **client**.
+Les autres fenêtres sont assez intuitives (*on recherche par nom et on sélectionne, sinon on créer l'élément*)
+
+![cmd_window](https://raw.githubusercontent.com/ThomasBacheley/ATV/master/screenshot/window_create_cmd.PNG)
+Une fois sur la page commande, on peut compléter la commande et ajouter jusqu'à 10 produits puis généré le PDF.
+
+L'application peut être configurée via une fenêtre paramètre :
+![settings](https://raw.githubusercontent.com/ThomasBacheley/ATV/master/screenshot/settings_window.PNG)
+
 #Données
 - [logo.png](https://github.com/ThomasBacheley/ATV/blob/master/logo.png "logo.png") : logo de l'entreprise ATV
 - [atvcommande.sql](https://github.com/ThomasBacheley/ATV/blob/master/atvcommande.sql "atvcommande.sql") : script de la base SQL
